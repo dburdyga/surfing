@@ -18,10 +18,7 @@ export default Vue.extend({
 <style scoped lang="scss">
 h1 {
   color: black;
-  font-family: Abril Fatface;
+  font-family: "Abril Fatface";
   font-size: 65px;
-}
-a {
-  color: #42b983;
 }
 </style>
