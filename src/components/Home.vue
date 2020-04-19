@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome!"/>
+    <img alt="Vue logo" src="../assets/surfing_pic.png">
+    <HelloWorld msg="Surfing in Beautiful Tahiti"/>
   </div>
 </template>
 
